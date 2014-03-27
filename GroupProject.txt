@@ -1,0 +1,30 @@
+Team C Group Project A.K.A. The Cat Nip Collective
+
+
+Schedule
+1. March 18
+   1. planning/scheduling
+   2. git/other tech
+   3. 1. March 20
+   1. build powerpoint mock of ui
+1. March 25
+   1. start modeling the back end
+1. March 27
+   1. finish modeling
+   2. start construction of modules that are ready
+1. April 1
+   1. Construct
+1. April 3
+   1. Construct
+1. April 8
+   1. Construct
+1. April 10
+   1. testing
+   2. deployed product ready for presentation
+1. April 15
+   1. PRESENTATION!!
+   2. Deployment
+Technology
+1. Java, Eclipse
+2. Processing?
+3. HTML?
